@@ -1,8 +1,8 @@
-<img src="exemplo-image.png" alt="exemplo imagem">
+<img src="https://geekflare.com/wp-content/uploads/2021/02/discordbot.png" alt="exemplo imagem">
 
-# Nome Do Projeto
+# DisordBase-Gloawzin
 
-Descrição curta do projeto. Sua introdução deve ter cerca de 2 ou 3 linhas. Não exagere, as pessoas não vão ler.
+Criado para ajudar no inicio de criação de bots na v13.
 
 ## 🔧 Funçoes (Base Para Criar Bot Na Discord V13)
 
